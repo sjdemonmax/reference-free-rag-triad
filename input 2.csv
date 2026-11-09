@@ -1,0 +1,201 @@
+query_id,student_id,subject,chapter,difficulty_tier,query_text,timestamp,session_id
+QRY-2026-0001,STU-1017,Physics,Thermodynamics,Conceptual,Could you explain: why does internal energy remain constant during an isothermal process of an ideal gas?,2026-10-26 10:07:13,SES-031
+QRY-2026-0002,STU-1034,Physics,Thermodynamics,Standard,I am confused about: what is the physical interpretation of carnot efficiency and why can it never reach 100%?,2026-10-26 10:14:26,SES-062
+QRY-2026-0003,STU-1051,Physics,Optics,Standard,How do we solve doubts regarding: how do you calculate the fringe width in young's double slit experiment when immersed in water?,2026-10-26 10:21:39,SES-093
+QRY-2026-0004,STU-1068,Physics,Optics,Conceptual,What is the underlying concept behind: why does total internal reflection occur only when light travels from denser to rarer medium?,2026-10-26 10:28:52,SES-124
+QRY-2026-0005,STU-1085,Physics,Electromagnetism,Standard,How is Lenz's law an expression of the law of conservation of energy?,2026-10-26 10:35:05,SES-155
+QRY-2026-0006,STU-1102,Physics,Electromagnetism,Standard,Could you explain: what is the magnetic field at the center of a circular coil carrying current i?,2026-10-26 10:42:18,SES-186
+QRY-2026-0007,STU-1119,Physics,Rotational Dynamics,Conceptual,I am confused about: why is the moment of inertia of a hollow cylinder greater than that of a solid cylinder of same mass and radius?,2026-10-26 10:49:31,SES-217
+QRY-2026-0008,STU-1136,Physics,Rotational Dynamics,Standard,How do we solve doubts regarding: how does angular momentum conservation apply when a spinning figure skater pulls in their arms?,2026-10-26 10:56:44,SES-248
+QRY-2026-0009,STU-1153,Physics,Modern Physics,Standard,What is the underlying concept behind: what is the stopping potential in the photoelectric effect and how does it relate to incident frequency?,2026-10-26 10:03:57,SES-279
+QRY-2026-0010,STU-1170,Physics,Modern Physics,Conceptual,Explain the de Broglie wavelength formula and how it proves wave-particle duality for electrons.,2026-10-26 10:10:10,SES-310
+QRY-2026-0011,STU-1187,Chemistry,Organic Reaction Mechanisms,Standard,Could you explain: what is the major product in the elimination reaction of 2-bromobutane with alcoholic koh?,2026-10-26 10:17:23,SES-341
+QRY-2026-0012,STU-1204,Chemistry,Organic Reaction Mechanisms,Standard,I am confused about: why does sn1 substitution lead to partial racemization while sn2 gives complete inversion?,2026-10-26 10:24:36,SES-372
+QRY-2026-0013,STU-1221,Chemistry,Chemical Equilibrium,Conceptual,How do we solve doubts regarding: how does increasing pressure affect the equilibrium yield of ammonia in the haber-bosch process?,2026-10-26 10:31:49,SES-403
+QRY-2026-0014,STU-1238,Chemistry,Chemical Equilibrium,Standard,What is the underlying concept behind: explain le chatelier's principle when an inert gas is added at constant volume.?,2026-10-26 10:38:02,SES-434
+QRY-2026-0015,STU-1255,Chemistry,Coordination Chemistry,Standard,Why is [Co(NH3)6]3+ diamagnetic while [CoF6]3- is paramagnetic according to crystal field theory?,2026-10-26 10:45:15,SES-465
+QRY-2026-0016,STU-1272,Chemistry,Coordination Chemistry,Conceptual,Could you explain: what is the difference between linkage isomerism and ionization isomerism with examples?,2026-10-26 10:52:28,SES-496
+QRY-2026-0017,STU-1289,Chemistry,Electrochemistry,Standard,I am confused about: how do you calculate cell potential under non-standard conditions using the nernst equation?,2026-10-26 10:59:41,SES-027
+QRY-2026-0018,STU-1306,Chemistry,Electrochemistry,Standard,How do we solve doubts regarding: why does molar conductivity increase sharply for weak electrolytes upon infinite dilution?,2026-10-26 10:06:54,SES-058
+QRY-2026-0019,STU-1323,Chemistry,Thermodynamics & Energetics,Conceptual,What is the underlying concept behind: what is the condition for a chemical reaction to be spontaneous at all temperatures?,2026-10-26 10:13:07,SES-089
+QRY-2026-0020,STU-1340,Chemistry,Thermodynamics & Energetics,Standard,Explain the difference between state functions and path functions in chemical thermodynamics.,2026-10-26 10:20:20,SES-120
+QRY-2026-0021,STU-1357,Mathematics,Calculus & Integration,Standard,Could you explain: how do you evaluate the definite integral of x*sin(x) from 0 to pi using integration by parts?,2026-10-26 10:27:33,SES-151
+QRY-2026-0022,STU-1374,Mathematics,Calculus & Integration,Conceptual,I am confused about: what is the geometrical interpretation of rolle's theorem on a differentiable function?,2026-10-26 10:34:46,SES-182
+QRY-2026-0023,STU-1391,Mathematics,Linear Algebra & Matrices,Standard,How do we solve doubts regarding: how do you find the eigenvalues and eigenvectors of a 2x2 symmetric matrix?,2026-10-26 10:41:59,SES-213
+QRY-2026-0024,STU-1408,Mathematics,Linear Algebra & Matrices,Standard,What is the underlying concept behind: why is the determinant of an orthogonal matrix always either +1 or -1?,2026-10-26 10:48:12,SES-244
+QRY-2026-0025,STU-1425,Mathematics,Coordinate Geometry,Conceptual,What is the condition for two lines y=m1*x+c1 and y=m2*x+c2 to be perpendicular?,2026-10-26 11:55:25,SES-275
+QRY-2026-0026,STU-1442,Mathematics,Coordinate Geometry,Standard,Could you explain: how do you derive the focal length and eccentricity of an ellipse from its standard equation?,2026-10-26 11:02:38,SES-306
+QRY-2026-0027,STU-1459,Mathematics,Probability & Statistics,Standard,I am confused about: explain bayes' theorem with an example of a medical diagnostic test accuracy.?,2026-10-26 11:09:51,SES-337
+QRY-2026-0028,STU-1476,Mathematics,Probability & Statistics,Conceptual,How do we solve doubts regarding: what is the difference between mutually exclusive events and independent events?,2026-10-26 11:16:04,SES-368
+QRY-2026-0029,STU-1493,Mathematics,Complex Numbers,Standard,What is the underlying concept behind: how do you find the cube roots of unity using euler's formula e^(i*theta)?,2026-10-26 11:23:17,SES-399
+QRY-2026-0030,STU-1510,Mathematics,Complex Numbers,Standard,What is the locus represented by |z - 3| = |z + 3i| in the complex plane?,2026-10-26 11:30:30,SES-430
+QRY-2026-0031,STU-1527,Biology,Molecular Biology,Conceptual,Could you explain: what is the role of dna ligase in the replication of the lagging strand?,2026-10-26 11:37:43,SES-461
+QRY-2026-0032,STU-1544,Biology,Molecular Biology,Standard,I am confused about: explain how the lac operon is repressed in e. coli in the absence of lactose.?,2026-10-26 11:44:56,SES-492
+QRY-2026-0033,STU-1561,Biology,Genetics & Heredity,Standard,How do we solve doubts regarding: what is the expected phenotypic ratio in a dihybrid cross obeying mendel's independent assortment?,2026-10-26 11:51:09,SES-023
+QRY-2026-0034,STU-1578,Biology,Genetics & Heredity,Conceptual,What is the underlying concept behind: why does crossing over during prophase i of meiosis increase genetic variation?,2026-10-26 11:58:22,SES-054
+QRY-2026-0035,STU-1595,Biology,Cell Physiology,Standard,How does the sodium-potassium ATPase pump maintain resting membrane potential across axons?,2026-10-26 11:05:35,SES-085
+QRY-2026-0036,STU-1612,Biology,Cell Physiology,Standard,Could you explain: explain the role of atp synthase in oxidative phosphorylation during cellular respiration.?,2026-10-26 11:12:48,SES-116
+QRY-2026-0037,STU-1629,Biology,Ecology & Environment,Conceptual,I am confused about: what is the 10 percent rule of energy transfer across trophic levels in an ecosystem?,2026-10-26 11:19:01,SES-147
+QRY-2026-0038,STU-1646,Biology,Ecology & Environment,Standard,How do we solve doubts regarding: how does primary ecological succession differ from secondary succession after forest fires?,2026-10-26 11:26:14,SES-178
+QRY-2026-0039,STU-1663,Physics,Thermodynamics,Standard,What is the underlying concept behind: why does internal energy remain constant during an isothermal process of an ideal gas?,2026-10-26 11:33:27,SES-209
+QRY-2026-0040,STU-1680,Physics,Thermodynamics,Conceptual,What is the physical interpretation of Carnot efficiency and why can it never reach 100%?,2026-10-26 11:40:40,SES-240
+QRY-2026-0041,STU-1697,Physics,Optics,Standard,Could you explain: how do you calculate the fringe width in young's double slit experiment when immersed in water?,2026-10-26 11:47:53,SES-271
+QRY-2026-0042,STU-1714,Physics,Optics,Standard,I am confused about: why does total internal reflection occur only when light travels from denser to rarer medium?,2026-10-26 11:54:06,SES-302
+QRY-2026-0043,STU-1731,Physics,Electromagnetism,Conceptual,How do we solve doubts regarding: how is lenz's law an expression of the law of conservation of energy?,2026-10-26 11:01:19,SES-333
+QRY-2026-0044,STU-1748,Physics,Electromagnetism,Standard,What is the underlying concept behind: what is the magnetic field at the center of a circular coil carrying current i?,2026-10-26 11:08:32,SES-364
+QRY-2026-0045,STU-1765,Physics,Rotational Dynamics,Standard,Why is the moment of inertia of a hollow cylinder greater than that of a solid cylinder of same mass and radius?,2026-10-26 11:15:45,SES-395
+QRY-2026-0046,STU-1782,Physics,Rotational Dynamics,Conceptual,Could you explain: how does angular momentum conservation apply when a spinning figure skater pulls in their arms?,2026-10-26 11:22:58,SES-426
+QRY-2026-0047,STU-1799,Physics,Modern Physics,Standard,I am confused about: what is the stopping potential in the photoelectric effect and how does it relate to incident frequency?,2026-10-26 11:29:11,SES-457
+QRY-2026-0048,STU-1816,Physics,Modern Physics,Standard,How do we solve doubts regarding: explain the de broglie wavelength formula and how it proves wave-particle duality for electrons.?,2026-10-26 11:36:24,SES-488
+QRY-2026-0049,STU-1833,Chemistry,Organic Reaction Mechanisms,Conceptual,What is the underlying concept behind: what is the major product in the elimination reaction of 2-bromobutane with alcoholic koh?,2026-10-26 11:43:37,SES-019
+QRY-2026-0050,STU-1850,Chemistry,Organic Reaction Mechanisms,Standard,Why does SN1 substitution lead to partial racemization while SN2 gives complete inversion?,2026-10-26 12:50:50,SES-050
+QRY-2026-0051,STU-1867,Chemistry,Chemical Equilibrium,Standard,Could you explain: how does increasing pressure affect the equilibrium yield of ammonia in the haber-bosch process?,2026-10-26 12:57:03,SES-081
+QRY-2026-0052,STU-1884,Chemistry,Chemical Equilibrium,Conceptual,I am confused about: explain le chatelier's principle when an inert gas is added at constant volume.?,2026-10-26 12:04:16,SES-112
+QRY-2026-0053,STU-1901,Chemistry,Coordination Chemistry,Standard,How do we solve doubts regarding: why is [co(nh3)6]3+ diamagnetic while [cof6]3- is paramagnetic according to crystal field theory?,2026-10-26 12:11:29,SES-143
+QRY-2026-0054,STU-1918,Chemistry,Coordination Chemistry,Standard,What is the underlying concept behind: what is the difference between linkage isomerism and ionization isomerism with examples?,2026-10-26 12:18:42,SES-174
+QRY-2026-0055,STU-1935,Chemistry,Electrochemistry,Conceptual,How do you calculate cell potential under non-standard conditions using the Nernst equation?,2026-10-26 12:25:55,SES-205
+QRY-2026-0056,STU-1952,Chemistry,Electrochemistry,Standard,Could you explain: why does molar conductivity increase sharply for weak electrolytes upon infinite dilution?,2026-10-26 12:32:08,SES-236
+QRY-2026-0057,STU-1969,Chemistry,Thermodynamics & Energetics,Standard,I am confused about: what is the condition for a chemical reaction to be spontaneous at all temperatures?,2026-10-26 12:39:21,SES-267
+QRY-2026-0058,STU-1986,Chemistry,Thermodynamics & Energetics,Conceptual,How do we solve doubts regarding: explain the difference between state functions and path functions in chemical thermodynamics.?,2026-10-26 12:46:34,SES-298
+QRY-2026-0059,STU-2003,Mathematics,Calculus & Integration,Standard,What is the underlying concept behind: how do you evaluate the definite integral of x*sin(x) from 0 to pi using integration by parts?,2026-10-26 12:53:47,SES-329
+QRY-2026-0060,STU-2020,Mathematics,Calculus & Integration,Standard,What is the geometrical interpretation of Rolle's theorem on a differentiable function?,2026-10-26 12:00:00,SES-360
+QRY-2026-0061,STU-2037,Mathematics,Linear Algebra & Matrices,Conceptual,Could you explain: how do you find the eigenvalues and eigenvectors of a 2x2 symmetric matrix?,2026-10-26 12:07:13,SES-391
+QRY-2026-0062,STU-2054,Mathematics,Linear Algebra & Matrices,Standard,I am confused about: why is the determinant of an orthogonal matrix always either +1 or -1?,2026-10-26 12:14:26,SES-422
+QRY-2026-0063,STU-2071,Mathematics,Coordinate Geometry,Standard,How do we solve doubts regarding: what is the condition for two lines y=m1*x+c1 and y=m2*x+c2 to be perpendicular?,2026-10-26 12:21:39,SES-453
+QRY-2026-0064,STU-2088,Mathematics,Coordinate Geometry,Conceptual,What is the underlying concept behind: how do you derive the focal length and eccentricity of an ellipse from its standard equation?,2026-10-26 12:28:52,SES-484
+QRY-2026-0065,STU-2105,Mathematics,Probability & Statistics,Standard,Explain Bayes' theorem with an example of a medical diagnostic test accuracy.,2026-10-26 12:35:05,SES-015
+QRY-2026-0066,STU-2122,Mathematics,Probability & Statistics,Standard,Could you explain: what is the difference between mutually exclusive events and independent events?,2026-10-26 12:42:18,SES-046
+QRY-2026-0067,STU-2139,Mathematics,Complex Numbers,Conceptual,I am confused about: how do you find the cube roots of unity using euler's formula e^(i*theta)?,2026-10-26 12:49:31,SES-077
+QRY-2026-0068,STU-2156,Mathematics,Complex Numbers,Standard,How do we solve doubts regarding: what is the locus represented by |z - 3| = |z + 3i| in the complex plane?,2026-10-26 12:56:44,SES-108
+QRY-2026-0069,STU-2173,Biology,Molecular Biology,Standard,What is the underlying concept behind: what is the role of dna ligase in the replication of the lagging strand?,2026-10-26 12:03:57,SES-139
+QRY-2026-0070,STU-2190,Biology,Molecular Biology,Conceptual,Explain how the lac operon is repressed in E. coli in the absence of lactose.,2026-10-26 12:10:10,SES-170
+QRY-2026-0071,STU-2207,Biology,Genetics & Heredity,Standard,Could you explain: what is the expected phenotypic ratio in a dihybrid cross obeying mendel's independent assortment?,2026-10-26 12:17:23,SES-201
+QRY-2026-0072,STU-2224,Biology,Genetics & Heredity,Standard,I am confused about: why does crossing over during prophase i of meiosis increase genetic variation?,2026-10-26 12:24:36,SES-232
+QRY-2026-0073,STU-2241,Biology,Cell Physiology,Conceptual,How do we solve doubts regarding: how does the sodium-potassium atpase pump maintain resting membrane potential across axons?,2026-10-26 12:31:49,SES-263
+QRY-2026-0074,STU-2258,Biology,Cell Physiology,Standard,What is the underlying concept behind: explain the role of atp synthase in oxidative phosphorylation during cellular respiration.?,2026-10-26 12:38:02,SES-294
+QRY-2026-0075,STU-2275,Biology,Ecology & Environment,Standard,What is the 10 percent rule of energy transfer across trophic levels in an ecosystem?,2026-10-26 13:45:15,SES-325
+QRY-2026-0076,STU-2292,Biology,Ecology & Environment,Conceptual,Could you explain: how does primary ecological succession differ from secondary succession after forest fires?,2026-10-26 13:52:28,SES-356
+QRY-2026-0077,STU-2309,Physics,Thermodynamics,Standard,I am confused about: why does internal energy remain constant during an isothermal process of an ideal gas?,2026-10-26 13:59:41,SES-387
+QRY-2026-0078,STU-2326,Physics,Thermodynamics,Standard,How do we solve doubts regarding: what is the physical interpretation of carnot efficiency and why can it never reach 100%?,2026-10-26 13:06:54,SES-418
+QRY-2026-0079,STU-2343,Physics,Optics,Conceptual,What is the underlying concept behind: how do you calculate the fringe width in young's double slit experiment when immersed in water?,2026-10-26 13:13:07,SES-449
+QRY-2026-0080,STU-2360,Physics,Optics,Standard,Why does total internal reflection occur only when light travels from denser to rarer medium?,2026-10-26 13:20:20,SES-480
+QRY-2026-0081,STU-2377,Physics,Electromagnetism,Standard,Could you explain: how is lenz's law an expression of the law of conservation of energy?,2026-10-26 13:27:33,SES-011
+QRY-2026-0082,STU-2394,Physics,Electromagnetism,Conceptual,I am confused about: what is the magnetic field at the center of a circular coil carrying current i?,2026-10-26 13:34:46,SES-042
+QRY-2026-0083,STU-2411,Physics,Rotational Dynamics,Standard,How do we solve doubts regarding: why is the moment of inertia of a hollow cylinder greater than that of a solid cylinder of same mass and radius?,2026-10-26 13:41:59,SES-073
+QRY-2026-0084,STU-2428,Physics,Rotational Dynamics,Standard,What is the underlying concept behind: how does angular momentum conservation apply when a spinning figure skater pulls in their arms?,2026-10-26 13:48:12,SES-104
+QRY-2026-0085,STU-2445,Physics,Modern Physics,Conceptual,What is the stopping potential in the photoelectric effect and how does it relate to incident frequency?,2026-10-26 13:55:25,SES-135
+QRY-2026-0086,STU-2462,Physics,Modern Physics,Standard,Could you explain: explain the de broglie wavelength formula and how it proves wave-particle duality for electrons.?,2026-10-26 13:02:38,SES-166
+QRY-2026-0087,STU-2479,Chemistry,Organic Reaction Mechanisms,Standard,I am confused about: what is the major product in the elimination reaction of 2-bromobutane with alcoholic koh?,2026-10-26 13:09:51,SES-197
+QRY-2026-0088,STU-2496,Chemistry,Organic Reaction Mechanisms,Conceptual,How do we solve doubts regarding: why does sn1 substitution lead to partial racemization while sn2 gives complete inversion?,2026-10-26 13:16:04,SES-228
+QRY-2026-0089,STU-2513,Chemistry,Chemical Equilibrium,Standard,What is the underlying concept behind: how does increasing pressure affect the equilibrium yield of ammonia in the haber-bosch process?,2026-10-26 13:23:17,SES-259
+QRY-2026-0090,STU-2530,Chemistry,Chemical Equilibrium,Standard,Explain Le Chatelier's principle when an inert gas is added at constant volume.,2026-10-26 13:30:30,SES-290
+QRY-2026-0091,STU-2547,Chemistry,Coordination Chemistry,Conceptual,Could you explain: why is [co(nh3)6]3+ diamagnetic while [cof6]3- is paramagnetic according to crystal field theory?,2026-10-26 13:37:43,SES-321
+QRY-2026-0092,STU-2564,Chemistry,Coordination Chemistry,Standard,I am confused about: what is the difference between linkage isomerism and ionization isomerism with examples?,2026-10-26 13:44:56,SES-352
+QRY-2026-0093,STU-2581,Chemistry,Electrochemistry,Standard,How do we solve doubts regarding: how do you calculate cell potential under non-standard conditions using the nernst equation?,2026-10-26 13:51:09,SES-383
+QRY-2026-0094,STU-2598,Chemistry,Electrochemistry,Conceptual,What is the underlying concept behind: why does molar conductivity increase sharply for weak electrolytes upon infinite dilution?,2026-10-26 13:58:22,SES-414
+QRY-2026-0095,STU-2615,Chemistry,Thermodynamics & Energetics,Standard,What is the condition for a chemical reaction to be spontaneous at all temperatures?,2026-10-26 13:05:35,SES-445
+QRY-2026-0096,STU-2632,Chemistry,Thermodynamics & Energetics,Standard,Could you explain: explain the difference between state functions and path functions in chemical thermodynamics.?,2026-10-26 13:12:48,SES-476
+QRY-2026-0097,STU-2649,Mathematics,Calculus & Integration,Conceptual,I am confused about: how do you evaluate the definite integral of x*sin(x) from 0 to pi using integration by parts?,2026-10-26 13:19:01,SES-007
+QRY-2026-0098,STU-2666,Mathematics,Calculus & Integration,Standard,How do we solve doubts regarding: what is the geometrical interpretation of rolle's theorem on a differentiable function?,2026-10-26 13:26:14,SES-038
+QRY-2026-0099,STU-2683,Mathematics,Linear Algebra & Matrices,Standard,What is the underlying concept behind: how do you find the eigenvalues and eigenvectors of a 2x2 symmetric matrix?,2026-10-26 13:33:27,SES-069
+QRY-2026-0100,STU-2700,Mathematics,Linear Algebra & Matrices,Conceptual,Why is the determinant of an orthogonal matrix always either +1 or -1?,2026-10-26 14:40:40,SES-100
+QRY-2026-0101,STU-2717,Mathematics,Coordinate Geometry,Standard,Could you explain: what is the condition for two lines y=m1*x+c1 and y=m2*x+c2 to be perpendicular?,2026-10-26 14:47:53,SES-131
+QRY-2026-0102,STU-2734,Mathematics,Coordinate Geometry,Standard,I am confused about: how do you derive the focal length and eccentricity of an ellipse from its standard equation?,2026-10-26 14:54:06,SES-162
+QRY-2026-0103,STU-2751,Mathematics,Probability & Statistics,Conceptual,How do we solve doubts regarding: explain bayes' theorem with an example of a medical diagnostic test accuracy.?,2026-10-26 14:01:19,SES-193
+QRY-2026-0104,STU-2768,Mathematics,Probability & Statistics,Standard,What is the underlying concept behind: what is the difference between mutually exclusive events and independent events?,2026-10-26 14:08:32,SES-224
+QRY-2026-0105,STU-2785,Mathematics,Complex Numbers,Standard,How do you find the cube roots of unity using Euler's formula e^(i*theta)?,2026-10-26 14:15:45,SES-255
+QRY-2026-0106,STU-2802,Mathematics,Complex Numbers,Conceptual,Could you explain: what is the locus represented by |z - 3| = |z + 3i| in the complex plane?,2026-10-26 14:22:58,SES-286
+QRY-2026-0107,STU-2819,Biology,Molecular Biology,Standard,I am confused about: what is the role of dna ligase in the replication of the lagging strand?,2026-10-26 14:29:11,SES-317
+QRY-2026-0108,STU-2836,Biology,Molecular Biology,Standard,How do we solve doubts regarding: explain how the lac operon is repressed in e. coli in the absence of lactose.?,2026-10-26 14:36:24,SES-348
+QRY-2026-0109,STU-2853,Biology,Genetics & Heredity,Conceptual,What is the underlying concept behind: what is the expected phenotypic ratio in a dihybrid cross obeying mendel's independent assortment?,2026-10-26 14:43:37,SES-379
+QRY-2026-0110,STU-2870,Biology,Genetics & Heredity,Standard,Why does crossing over during prophase I of meiosis increase genetic variation?,2026-10-26 14:50:50,SES-410
+QRY-2026-0111,STU-2887,Biology,Cell Physiology,Standard,Could you explain: how does the sodium-potassium atpase pump maintain resting membrane potential across axons?,2026-10-26 14:57:03,SES-441
+QRY-2026-0112,STU-2904,Biology,Cell Physiology,Conceptual,I am confused about: explain the role of atp synthase in oxidative phosphorylation during cellular respiration.?,2026-10-26 14:04:16,SES-472
+QRY-2026-0113,STU-2921,Biology,Ecology & Environment,Standard,How do we solve doubts regarding: what is the 10 percent rule of energy transfer across trophic levels in an ecosystem?,2026-10-26 14:11:29,SES-003
+QRY-2026-0114,STU-2938,Biology,Ecology & Environment,Standard,What is the underlying concept behind: how does primary ecological succession differ from secondary succession after forest fires?,2026-10-26 14:18:42,SES-034
+QRY-2026-0115,STU-2955,Physics,Thermodynamics,Conceptual,Why does internal energy remain constant during an isothermal process of an ideal gas?,2026-10-26 14:25:55,SES-065
+QRY-2026-0116,STU-2972,Physics,Thermodynamics,Standard,Could you explain: what is the physical interpretation of carnot efficiency and why can it never reach 100%?,2026-10-26 14:32:08,SES-096
+QRY-2026-0117,STU-2989,Physics,Optics,Standard,I am confused about: how do you calculate the fringe width in young's double slit experiment when immersed in water?,2026-10-26 14:39:21,SES-127
+QRY-2026-0118,STU-3006,Physics,Optics,Conceptual,How do we solve doubts regarding: why does total internal reflection occur only when light travels from denser to rarer medium?,2026-10-26 14:46:34,SES-158
+QRY-2026-0119,STU-3023,Physics,Electromagnetism,Standard,What is the underlying concept behind: how is lenz's law an expression of the law of conservation of energy?,2026-10-26 14:53:47,SES-189
+QRY-2026-0120,STU-3040,Physics,Electromagnetism,Standard,What is the magnetic field at the center of a circular coil carrying current I?,2026-10-26 14:00:00,SES-220
+QRY-2026-0121,STU-3057,Physics,Thermodynamics,Advanced / Out-of-Scope,Can an engine utilizing negative absolute temperature particles exceed the Carnot efficiency limit?,2026-10-26 14:07:13,SES-251
+QRY-2026-0122,STU-3074,Physics,Optics,Advanced / Out-of-Scope,How does negative refractive index metamaterial produce backward Cherenkov radiation?,2026-10-26 14:14:26,SES-282
+QRY-2026-0123,STU-3091,Physics,Electromagnetism,Advanced / Out-of-Scope,Calculate the magnetic monopole flux quantization using Dirac string singularity in curved spacetime.,2026-10-26 14:21:39,SES-313
+QRY-2026-0124,STU-3108,Physics,Rotational Dynamics,Advanced / Out-of-Scope,Explain the Dzhanibekov tennis racket instability theorem using non-Euclidean Euler-Poinsot mechanics.,2026-10-26 14:28:52,SES-344
+QRY-2026-0125,STU-3125,Physics,Modern Physics,Advanced / Out-of-Scope,How does the holographic principle explain black hole information paradox via Ryu-Takayanagi entanglement entropy?,2026-10-26 15:35:05,SES-375
+QRY-2026-0126,STU-3142,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Why does benzene undergo spontaneous anti-Markovnikov hydration at room temperature without acid?,2026-10-26 15:42:18,SES-406
+QRY-2026-0127,STU-3159,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Explain the catalytic cycle of Grubbs olefin metathesis involving ruthenium-carbene pi-backbonding.,2026-10-26 15:49:31,SES-437
+QRY-2026-0128,STU-3176,Chemistry,Chemical Equilibrium,Advanced / Out-of-Scope,Calculate the fugacity coefficient of supercritical CO2 at 400 bar using Peng-Robinson EOS.,2026-10-26 15:56:44,SES-468
+QRY-2026-0129,STU-3193,Chemistry,Coordination Chemistry,Advanced / Out-of-Scope,How does relativistic spin-orbit coupling invert the d-orbital splitting in transuranic actinide complexes?,2026-10-26 15:03:57,SES-499
+QRY-2026-0130,STU-3210,Chemistry,Electrochemistry,Advanced / Out-of-Scope,Explain the Marcus electron transfer reorganization energy in non-adiabatic outer-sphere redox couples.,2026-10-26 15:10:10,SES-030
+QRY-2026-0131,STU-3227,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,How do you rigorously define the functional derivative in infinite-dimensional Banach manifolds?,2026-10-26 15:17:23,SES-061
+QRY-2026-0132,STU-3244,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,State and prove the Selberg trace formula for compact Riemann surfaces of genus g >= 2.,2026-10-26 15:24:36,SES-092
+QRY-2026-0133,STU-3261,Mathematics,Linear Algebra & Matrices,Advanced / Out-of-Scope,Explain how spectral decomposition applies to unbounded self-adjoint operators in Hilbert space.,2026-10-26 15:31:49,SES-123
+QRY-2026-0134,STU-3278,Mathematics,Coordinate Geometry,Advanced / Out-of-Scope,Derive the Gauss-Bonnet theorem connecting geodesic curvature to Euler characteristic of Riemannian surfaces.,2026-10-26 15:38:02,SES-154
+QRY-2026-0135,STU-3295,Mathematics,Complex Numbers,Advanced / Out-of-Scope,"Explain how the modular group SL(2, Z) acts on the upper half-plane in elliptic curve j-invariants.",2026-10-26 15:45:15,SES-185
+QRY-2026-0136,STU-3312,Biology,Molecular Biology,Advanced / Out-of-Scope,Describe the molecular architecture of the mammalian spliceosome cryo-EM pre-B complex active site.,2026-10-26 15:52:28,SES-216
+QRY-2026-0137,STU-3329,Biology,Genetics & Heredity,Advanced / Out-of-Scope,How does CRISPR-Cas12a collateral cleavage kinetics enable single-molecule DETECTR diagnostic assays?,2026-10-26 15:59:41,SES-247
+QRY-2026-0138,STU-3346,Biology,Cell Physiology,Advanced / Out-of-Scope,Explain the atomic gating mechanism of human Nav1.7 sodium channels via voltage sensor paddle movements.,2026-10-26 15:06:54,SES-278
+QRY-2026-0139,STU-3363,Biology,Ecology & Environment,Advanced / Out-of-Scope,Analyze ecological regime shifts using stochastic bifurcation theory and non-local Fisher-KPP equations.,2026-10-26 15:13:07,SES-309
+QRY-2026-0140,STU-3380,Physics,Thermodynamics,Advanced / Out-of-Scope,Can an engine utilizing negative absolute temperature particles exceed the Carnot efficiency limit?,2026-10-26 15:20:20,SES-340
+QRY-2026-0141,STU-3397,Physics,Optics,Advanced / Out-of-Scope,How does negative refractive index metamaterial produce backward Cherenkov radiation?,2026-10-26 15:27:33,SES-371
+QRY-2026-0142,STU-3414,Physics,Electromagnetism,Advanced / Out-of-Scope,Calculate the magnetic monopole flux quantization using Dirac string singularity in curved spacetime.,2026-10-26 15:34:46,SES-402
+QRY-2026-0143,STU-3431,Physics,Rotational Dynamics,Advanced / Out-of-Scope,Explain the Dzhanibekov tennis racket instability theorem using non-Euclidean Euler-Poinsot mechanics.,2026-10-26 15:41:59,SES-433
+QRY-2026-0144,STU-3448,Physics,Modern Physics,Advanced / Out-of-Scope,How does the holographic principle explain black hole information paradox via Ryu-Takayanagi entanglement entropy?,2026-10-26 15:48:12,SES-464
+QRY-2026-0145,STU-3465,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Why does benzene undergo spontaneous anti-Markovnikov hydration at room temperature without acid?,2026-10-26 15:55:25,SES-495
+QRY-2026-0146,STU-3482,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Explain the catalytic cycle of Grubbs olefin metathesis involving ruthenium-carbene pi-backbonding.,2026-10-26 15:02:38,SES-026
+QRY-2026-0147,STU-3499,Chemistry,Chemical Equilibrium,Advanced / Out-of-Scope,Calculate the fugacity coefficient of supercritical CO2 at 400 bar using Peng-Robinson EOS.,2026-10-26 15:09:51,SES-057
+QRY-2026-0148,STU-3516,Chemistry,Coordination Chemistry,Advanced / Out-of-Scope,How does relativistic spin-orbit coupling invert the d-orbital splitting in transuranic actinide complexes?,2026-10-26 15:16:04,SES-088
+QRY-2026-0149,STU-3533,Chemistry,Electrochemistry,Advanced / Out-of-Scope,Explain the Marcus electron transfer reorganization energy in non-adiabatic outer-sphere redox couples.,2026-10-26 15:23:17,SES-119
+QRY-2026-0150,STU-3550,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,How do you rigorously define the functional derivative in infinite-dimensional Banach manifolds?,2026-10-26 16:30:30,SES-150
+QRY-2026-0151,STU-3567,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,State and prove the Selberg trace formula for compact Riemann surfaces of genus g >= 2.,2026-10-26 16:37:43,SES-181
+QRY-2026-0152,STU-3584,Mathematics,Linear Algebra & Matrices,Advanced / Out-of-Scope,Explain how spectral decomposition applies to unbounded self-adjoint operators in Hilbert space.,2026-10-26 16:44:56,SES-212
+QRY-2026-0153,STU-3601,Mathematics,Coordinate Geometry,Advanced / Out-of-Scope,Derive the Gauss-Bonnet theorem connecting geodesic curvature to Euler characteristic of Riemannian surfaces.,2026-10-26 16:51:09,SES-243
+QRY-2026-0154,STU-3618,Mathematics,Complex Numbers,Advanced / Out-of-Scope,"Explain how the modular group SL(2, Z) acts on the upper half-plane in elliptic curve j-invariants.",2026-10-26 16:58:22,SES-274
+QRY-2026-0155,STU-3635,Biology,Molecular Biology,Advanced / Out-of-Scope,Describe the molecular architecture of the mammalian spliceosome cryo-EM pre-B complex active site.,2026-10-26 16:05:35,SES-305
+QRY-2026-0156,STU-3652,Biology,Genetics & Heredity,Advanced / Out-of-Scope,How does CRISPR-Cas12a collateral cleavage kinetics enable single-molecule DETECTR diagnostic assays?,2026-10-26 16:12:48,SES-336
+QRY-2026-0157,STU-3669,Biology,Cell Physiology,Advanced / Out-of-Scope,Explain the atomic gating mechanism of human Nav1.7 sodium channels via voltage sensor paddle movements.,2026-10-26 16:19:01,SES-367
+QRY-2026-0158,STU-3686,Biology,Ecology & Environment,Advanced / Out-of-Scope,Analyze ecological regime shifts using stochastic bifurcation theory and non-local Fisher-KPP equations.,2026-10-26 16:26:14,SES-398
+QRY-2026-0159,STU-3703,Physics,Thermodynamics,Advanced / Out-of-Scope,Can an engine utilizing negative absolute temperature particles exceed the Carnot efficiency limit?,2026-10-26 16:33:27,SES-429
+QRY-2026-0160,STU-3720,Physics,Optics,Advanced / Out-of-Scope,How does negative refractive index metamaterial produce backward Cherenkov radiation?,2026-10-26 16:40:40,SES-460
+QRY-2026-0161,STU-3737,Physics,Electromagnetism,Advanced / Out-of-Scope,Calculate the magnetic monopole flux quantization using Dirac string singularity in curved spacetime.,2026-10-26 16:47:53,SES-491
+QRY-2026-0162,STU-3754,Physics,Rotational Dynamics,Advanced / Out-of-Scope,Explain the Dzhanibekov tennis racket instability theorem using non-Euclidean Euler-Poinsot mechanics.,2026-10-26 16:54:06,SES-022
+QRY-2026-0163,STU-3771,Physics,Modern Physics,Advanced / Out-of-Scope,How does the holographic principle explain black hole information paradox via Ryu-Takayanagi entanglement entropy?,2026-10-26 16:01:19,SES-053
+QRY-2026-0164,STU-3788,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Why does benzene undergo spontaneous anti-Markovnikov hydration at room temperature without acid?,2026-10-26 16:08:32,SES-084
+QRY-2026-0165,STU-3805,Chemistry,Organic Reaction Mechanisms,Advanced / Out-of-Scope,Explain the catalytic cycle of Grubbs olefin metathesis involving ruthenium-carbene pi-backbonding.,2026-10-26 16:15:45,SES-115
+QRY-2026-0166,STU-3822,Chemistry,Chemical Equilibrium,Advanced / Out-of-Scope,Calculate the fugacity coefficient of supercritical CO2 at 400 bar using Peng-Robinson EOS.,2026-10-26 16:22:58,SES-146
+QRY-2026-0167,STU-3839,Chemistry,Coordination Chemistry,Advanced / Out-of-Scope,How does relativistic spin-orbit coupling invert the d-orbital splitting in transuranic actinide complexes?,2026-10-26 16:29:11,SES-177
+QRY-2026-0168,STU-3856,Chemistry,Electrochemistry,Advanced / Out-of-Scope,Explain the Marcus electron transfer reorganization energy in non-adiabatic outer-sphere redox couples.,2026-10-26 16:36:24,SES-208
+QRY-2026-0169,STU-3873,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,How do you rigorously define the functional derivative in infinite-dimensional Banach manifolds?,2026-10-26 16:43:37,SES-239
+QRY-2026-0170,STU-3890,Mathematics,Calculus & Integration,Advanced / Out-of-Scope,State and prove the Selberg trace formula for compact Riemann surfaces of genus g >= 2.,2026-10-26 16:50:50,SES-270
+QRY-2026-0171,STU-3907,Physics,Thermodynamics,Ambiguous / Underspecified,Why is the heat answer coming negative in question 3?,2026-10-26 16:57:03,SES-301
+QRY-2026-0172,STU-3924,Physics,Optics,Ambiguous / Underspecified,What is the shortcut formula for finding lens magnification?,2026-10-26 16:04:16,SES-332
+QRY-2026-0173,STU-3941,Physics,Electromagnetism,Ambiguous / Underspecified,Can you explain the right hand thumb rule again in 2 lines?,2026-10-26 16:11:29,SES-363
+QRY-2026-0174,STU-3958,Physics,Rotational Dynamics,Ambiguous / Underspecified,Why did sir say torque is zero about the hinge?,2026-10-26 16:18:42,SES-394
+QRY-2026-0175,STU-3975,Chemistry,Organic Reaction Mechanisms,Ambiguous / Underspecified,How to remember all named reactions for organic chemistry exam in 1 day?,2026-10-26 17:25:55,SES-425
+QRY-2026-0176,STU-3992,Chemistry,Chemical Equilibrium,Ambiguous / Underspecified,What happens if I increase temperature in endothermic reaction?,2026-10-26 17:32:08,SES-456
+QRY-2026-0177,STU-4009,Chemistry,Coordination Chemistry,Ambiguous / Underspecified,Which color is formed when iron reacts with thiocyanate?,2026-10-26 17:39:21,SES-487
+QRY-2026-0178,STU-4026,Mathematics,Calculus & Integration,Ambiguous / Underspecified,Please integrate 1/(x^2 + 1) without trigonometric substitution.,2026-10-26 17:46:34,SES-018
+QRY-2026-0179,STU-4043,Mathematics,Linear Algebra & Matrices,Ambiguous / Underspecified,Is rank of product of two matrices always equal to minimum of their ranks?,2026-10-26 17:53:47,SES-049
+QRY-2026-0180,STU-4060,Mathematics,Probability & Statistics,Ambiguous / Underspecified,Why is coin tossing considered a Bernoulli trial?,2026-10-26 17:00:00,SES-080
+QRY-2026-0181,STU-4077,Biology,Molecular Biology,Ambiguous / Underspecified,What is the difference between DNA and RNA in short?,2026-10-26 17:07:13,SES-111
+QRY-2026-0182,STU-4094,Biology,Cell Physiology,Ambiguous / Underspecified,Where is ATP synthesized in cell cytoplasm?,2026-10-26 17:14:26,SES-142
+QRY-2026-0183,STU-4111,Physics,Thermodynamics,Ambiguous / Underspecified,Why is the heat answer coming negative in question 3?,2026-10-26 17:21:39,SES-173
+QRY-2026-0184,STU-4128,Physics,Optics,Ambiguous / Underspecified,What is the shortcut formula for finding lens magnification?,2026-10-26 17:28:52,SES-204
+QRY-2026-0185,STU-4145,Physics,Electromagnetism,Ambiguous / Underspecified,Can you explain the right hand thumb rule again in 2 lines?,2026-10-26 17:35:05,SES-235
+QRY-2026-0186,STU-4162,Physics,Rotational Dynamics,Ambiguous / Underspecified,Why did sir say torque is zero about the hinge?,2026-10-26 17:42:18,SES-266
+QRY-2026-0187,STU-4179,Chemistry,Organic Reaction Mechanisms,Ambiguous / Underspecified,How to remember all named reactions for organic chemistry exam in 1 day?,2026-10-26 17:49:31,SES-297
+QRY-2026-0188,STU-4196,Chemistry,Chemical Equilibrium,Ambiguous / Underspecified,What happens if I increase temperature in endothermic reaction?,2026-10-26 17:56:44,SES-328
+QRY-2026-0189,STU-4213,Chemistry,Coordination Chemistry,Ambiguous / Underspecified,Which color is formed when iron reacts with thiocyanate?,2026-10-26 17:03:57,SES-359
+QRY-2026-0190,STU-4230,Mathematics,Calculus & Integration,Ambiguous / Underspecified,Please integrate 1/(x^2 + 1) without trigonometric substitution.,2026-10-26 17:10:10,SES-390
+QRY-2026-0191,STU-4247,Mathematics,Linear Algebra & Matrices,Ambiguous / Underspecified,Is rank of product of two matrices always equal to minimum of their ranks?,2026-10-26 17:17:23,SES-421
+QRY-2026-0192,STU-4264,Mathematics,Probability & Statistics,Ambiguous / Underspecified,Why is coin tossing considered a Bernoulli trial?,2026-10-26 17:24:36,SES-452
+QRY-2026-0193,STU-4281,Biology,Molecular Biology,Ambiguous / Underspecified,What is the difference between DNA and RNA in short?,2026-10-26 17:31:49,SES-483
+QRY-2026-0194,STU-4298,Biology,Cell Physiology,Ambiguous / Underspecified,Where is ATP synthesized in cell cytoplasm?,2026-10-26 17:38:02,SES-014
+QRY-2026-0195,STU-4315,Physics,Thermodynamics,Ambiguous / Underspecified,Why is the heat answer coming negative in question 3?,2026-10-26 17:45:15,SES-045
+QRY-2026-0196,STU-4332,Physics,Optics,Ambiguous / Underspecified,What is the shortcut formula for finding lens magnification?,2026-10-26 17:52:28,SES-076
+QRY-2026-0197,STU-4349,Physics,Electromagnetism,Ambiguous / Underspecified,Can you explain the right hand thumb rule again in 2 lines?,2026-10-26 17:59:41,SES-107
+QRY-2026-0198,STU-4366,Physics,Rotational Dynamics,Ambiguous / Underspecified,Why did sir say torque is zero about the hinge?,2026-10-26 17:06:54,SES-138
+QRY-2026-0199,STU-4383,Chemistry,Organic Reaction Mechanisms,Ambiguous / Underspecified,How to remember all named reactions for organic chemistry exam in 1 day?,2026-10-26 17:13:07,SES-169
+QRY-2026-0200,STU-4400,Chemistry,Chemical Equilibrium,Ambiguous / Underspecified,What happens if I increase temperature in endothermic reaction?,2026-10-26 18:20:20,SES-200
